@@ -1,0 +1,28 @@
+1095 - Construção de Terminais de Ônibus
+1096 - Acessibilidade, Ampliação, Reforma e Requalifcação de Terminais de Ônibus
+1097 - Construção de Ciclovias, Ciclofaixas e Ciclorrotas
+1098 - Ampliação, Reforma e Requalifcação de Ciclovias, Ciclofaixas e Ciclorrotas
+1099 - Construção de Corredores de Ônibus
+1100 - Ampliação, Reforma e Requalifcação de Corredores de Ônibus
+1240 - Modernização Semafórica
+2096 - Manutenção e Operação de Terminais de Ônibus
+2098 - Manutenção de Ciclovias, Ciclofaixas e Ciclorrotas
+2099 - Manutenção de Corredores de Ônibus
+3012 - Projetos de Transporte e Mobilidade Oriundos de Recursos de Desestatizações e Parcerias
+3380 - Construção de Pontes, Viadutos e Alças
+3704 - Ações para modernização do sistema de transportes
+3742 - Participação no Sistema de Transporte sobre Trilhos
+3743 - Modernização do Controle e Fiscalização de Tráfego
+3745 - Aumento de Capital da SPTrans
+3746 - Aumento de Capital da CET
+4656 - Manutenção e Operação do Policiamento de Trânsito
+4657 - Ações de Educação de Trânsito
+4658 - Manutenção e Operação da Sinalização do Sistema Viário
+4700 - Manutenção e operação do sistema municipal de transporte coletivo
+4701 - Compensações tarifárias do sistema de ônibus
+4702 - Serviços de Engenharia de Tráfego
+4703 - Manutenção e Operação do Controle e Fiscalização de Tráfego
+5100 - Intervenções no Sistema Viário
+5187 - Recuperação e Reforço de Obras de Arte Especiais - OAE
+6841 - Manutenção e Operação Semafórica
+9201 - Intervenções na Área de Mobilidade Urbana
